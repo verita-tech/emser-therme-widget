@@ -4,10 +4,12 @@ This Scriptable widget displays the current occupancy of the Emser Therme as a p
 ![](mockup.jpg)
 ## Features
 - Live occupancy data from the official Emser Therme website
-- Progress bar with rounded corners
+- Native-looking circular progress ring instead of a bar
+- Apple system colors with automatic light/dark mode adaptation
+- System typography (title/headline/caption styles) and layout that adapts per widget size
 - Responsive design for all widget sizes (small, medium, large)
 - Shows last update time
-- Uses only documented Scriptable methods
+- Uses only documented Scriptable methods, no external dependencies
 
 ## 📲 Quick Install via ScriptDude
 
