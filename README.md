@@ -1,7 +1,7 @@
 # Emser Therme Widget
 
 This Scriptable widget displays the current occupancy of the Emser Therme as a progress bar with percentage.
-![](mockup.jepg)
+![](mockup.jpeg)
 ## Features
 - Live occupancy data from the official Emser Therme website
 - Native-looking circular progress ring instead of a bar
